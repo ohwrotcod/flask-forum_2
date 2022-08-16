@@ -62,7 +62,7 @@ other tool to create your virtualenv:
 
 ```shell
     $ virtualenv venv
-    $ . venv/bin/activate
+    $ source venv/bin/activate
 ```
 
 * Install dependencies from requirements.txt file
