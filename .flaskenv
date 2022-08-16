@@ -1,0 +1,4 @@
+FLASK_APP=forum
+FLASK_DEBUG=False
+FLASK_RUN_PORT=5000
+FLASK_ENV=development
